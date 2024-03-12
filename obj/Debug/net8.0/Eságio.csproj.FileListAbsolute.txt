@@ -1,0 +1,14 @@
+C:\Users\arthu\aula\.net\Eságio\bin\Debug\net8.0\Eságio.exe
+C:\Users\arthu\aula\.net\Eságio\bin\Debug\net8.0\Eságio.deps.json
+C:\Users\arthu\aula\.net\Eságio\bin\Debug\net8.0\Eságio.runtimeconfig.json
+C:\Users\arthu\aula\.net\Eságio\bin\Debug\net8.0\Eságio.dll
+C:\Users\arthu\aula\.net\Eságio\bin\Debug\net8.0\Eságio.pdb
+C:\Users\arthu\aula\.net\Eságio\obj\Debug\net8.0\Eságio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\aula\.net\Eságio\obj\Debug\net8.0\Eságio.AssemblyInfoInputs.cache
+C:\Users\arthu\aula\.net\Eságio\obj\Debug\net8.0\Eságio.AssemblyInfo.cs
+C:\Users\arthu\aula\.net\Eságio\obj\Debug\net8.0\Eságio.csproj.CoreCompileInputs.cache
+C:\Users\arthu\aula\.net\Eságio\obj\Debug\net8.0\Eságio.dll
+C:\Users\arthu\aula\.net\Eságio\obj\Debug\net8.0\refint\Eságio.dll
+C:\Users\arthu\aula\.net\Eságio\obj\Debug\net8.0\Eságio.pdb
+C:\Users\arthu\aula\.net\Eságio\obj\Debug\net8.0\Eságio.genruntimeconfig.cache
+C:\Users\arthu\aula\.net\Eságio\obj\Debug\net8.0\ref\Eságio.dll
